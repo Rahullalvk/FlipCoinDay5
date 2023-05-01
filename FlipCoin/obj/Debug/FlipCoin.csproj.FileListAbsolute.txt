@@ -1,0 +1,8 @@
+C:\Users\Admin\Documents\Day_3\FlipCoin\FlipCoin\obj\Debug\FlipCoin.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Day_3\FlipCoin\FlipCoin\obj\Debug\FlipCoin.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Documents\Day_3\FlipCoin\FlipCoin\obj\Debug\FlipCoin.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Day_3\FlipCoin\FlipCoin\bin\Debug\FlipCoin.exe.config
+C:\Users\Admin\Documents\Day_3\FlipCoin\FlipCoin\bin\Debug\FlipCoin.exe
+C:\Users\Admin\Documents\Day_3\FlipCoin\FlipCoin\bin\Debug\FlipCoin.pdb
+C:\Users\Admin\Documents\Day_3\FlipCoin\FlipCoin\obj\Debug\FlipCoin.exe
+C:\Users\Admin\Documents\Day_3\FlipCoin\FlipCoin\obj\Debug\FlipCoin.pdb
